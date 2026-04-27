@@ -1,1 +1,1 @@
-# Sneha
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sneha+Balakrishnan;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Microservices;Always+learning%2C+always+building)](https://git.io/typing-svg)
