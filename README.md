@@ -9,5 +9,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache_Camel-E80027?style=for-the-badge&logo=apache&logoColor=white)
 
-[![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snehab30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](
-(https://github.com/Snehab30)
+
+[![Movie Booking App](https://github-readme-stats.vercel.app/api/pin/?username=snehabalakrishnan&repo=movie-ticket-booking&theme=tokyonight&hide_border=true)](https://github.com/snehabalakrishnan/movie-ticket-booking)
+
+[![E-Commerce Microservices](https://github-readme-stats.vercel.app/api/pin/?username=snehabalakrishnan&repo=ecommerce-microservices&theme=tokyonight&hide_border=true)](https://github.com/snehabalakrishnan/ecommerce-microservices)
