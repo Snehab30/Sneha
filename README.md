@@ -21,11 +21,4 @@
 
 
 
-
-
 ---
-
-## Projects
-
-[![Movie Booking App](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=movie-ticket-booking&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/movie-ticket-booking)
-[![E-Commerce Microservices](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ecommerce-microservices&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ecommerce-microservices)
