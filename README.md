@@ -1,4 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sneha+Balakrishnan;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Microservices;Always+learning%2C+always+building)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&width=500&lines=Hi+👋+I'm+Sneha+Balakrishnan;Java+Full+Stack+Developer;Spring+Boot+|+React+|+Microservices)](https://git.io/typing-svg)
+
+🔭 Currently a System Engineer at **Infosys**, building scalable Java + React applications  
+🌱 Levelling up in **AWS**, **Docker**, and **TypeScript**  
+💬 Ask me about **Spring Boot**, **REST APIs**, or **React**  
+📫 Reach me: bsneha2018new@gmail.com  
+
+---
+
+## Tech stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -6,10 +18,31 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Apache Camel](https://img.shields.io/badge/Apache_Camel-E80027?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+## GitHub stats
 
 
-[![Movie Booking App](https://github-readme-stats.vercel.app/api/pin/?username=snehabalakrishnan&repo=movie-ticket-booking&theme=tokyonight&hide_border=true)](https://github.com/snehabalakrishnan/movie-ticket-booking)
 
-[![E-Commerce Microservices](https://github-readme-stats.vercel.app/api/pin/?username=snehabalakrishnan&repo=ecommerce-microservices&theme=tokyonight&hide_border=true)](https://github.com/snehabalakrishnan/ecommerce-microservices)
+
+[![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/YOUR_USERNAME)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/YOUR_USERNAME)
+
+---
+
+## Projects
+
+[![Movie Booking App](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=movie-ticket-booking&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/movie-ticket-booking)
+[![E-Commerce Microservices](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ecommerce-microservices&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/ecommerce-microservices)
