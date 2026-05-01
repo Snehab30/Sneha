@@ -1,6 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&width=500&lines=Hi+👋+I'm+Sneha+Balakrishnan;Java+Full+Stack+Developer;Spring+Boot+|+React+|+Microservices)](https://git.io/typing-svg)
 
 🔭 Currently a System Engineer at **Infosys**, building scalable Java + React applications  
